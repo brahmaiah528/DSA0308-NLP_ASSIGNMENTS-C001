@@ -1,0 +1,34 @@
+RESUME INFORMATION EXTRACTION
+Enter name: brahmaiah
+Enter email: brahmaiah@gmail.com
+Enter mobile number: 9573017656
+Enter skills: python
+Enter years of experience: 4
+
+Resume Details
+Name: brahmaiah
+Email: Valid
+Mobile: 9573017656
+Skills: ['python']
+Eligible: Yes
+
+PRODUCT SEARCH SYSTEM
+Enter product keyword: python
+Enter search type (exact/prefix/suffix/partial): partial
+Match: Python Book
+Match: Python Course
+Total matching products: 2
+
+UNIVERSITY REGISTRATION
+Enter register number: 192472286
+Enter university email: 192472286.simats@saveetha.com
+Enter course code: DSA0308
+Enter semester (1-8): 3
+Enter mobile number: 9573017656
+Register number: Valid
+University email: Valid
+Course code: Valid
+Semester: Valid
+Mobile number: Valid and matches Q1
+Registration Status: SUCCESSFUL
+ELIGIBLE
