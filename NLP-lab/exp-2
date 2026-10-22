@@ -1,0 +1,16 @@
+s = input("Enter a string: ")
+
+if "ab" in s[1:-1]:
+    print("String  middleAccepted")
+else:
+    print("String middle Rejected")
+
+if s.endswith("ab"):
+    print("String ends with 'ab'")
+else:
+    print("String does not end with 'ab'")
+
+if s.startswith("ab"):
+    print("String starts with 'ab'")
+else:
+    print("String does not start with 'ab'")
