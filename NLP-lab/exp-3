@@ -1,0 +1,15 @@
+import nltk
+from nltk.stem import PorterStemmer, WordNetLemmatizer
+
+nltk.download('wordnet', quiet=True)
+
+stemmer = PorterStemmer()
+lemmatizer = WordNetLemmatizer()
+
+words = input("Enter words: ").split()
+
+for word in words:
+    word = word.lower()
+    print("Word:", word)
+    print("Stem:", stemmer.stem(word))
+    print("Lemma:", lemmatizer.lemmatize(word))
